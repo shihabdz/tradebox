@@ -1,0 +1,165 @@
+CRITICAL - 2023-01-13 05:48:14 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('users')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('users')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 05:48:20 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('users')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('users')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 05:57:22 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('users')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('users')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 05:57:30 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('graphql')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('graphql')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 05:57:36 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('graphql/index')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('graphql/index')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 05:57:38 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('graphql/index')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('graphql/index')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:18:27 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('graphql')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('graphql')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:36:06 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:36:08 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:36:09 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:36:35 --> Call to a member function add() on null
+#0 D:\wamp64\www\tradebox\app\Config\Routes.php(14): require()
+#1 D:\wamp64\www\tradebox\system\CodeIgniter.php(788): require('D:\\wamp64\\www\\t...')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-01-13 06:36:38 --> Call to a member function add() on null
+#0 D:\wamp64\www\tradebox\app\Config\Routes.php(14): require()
+#1 D:\wamp64\www\tradebox\system\CodeIgniter.php(788): require('D:\\wamp64\\www\\t...')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-01-13 06:36:40 --> Call to a member function add() on null
+#0 D:\wamp64\www\tradebox\app\Config\Routes.php(14): require()
+#1 D:\wamp64\www\tradebox\system\CodeIgniter.php(788): require('D:\\wamp64\\www\\t...')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-01-13 06:36:53 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:38:24 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:38:45 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:38:56 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground/inde...')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground/inde...')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:43:15 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground/inde...')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground/inde...')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:43:18 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 06:44:30 --> Class 'CI_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('playground')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('playground')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-13 13:05:32 --> Class 'Graphql_Controller' not found
+#0 D:\wamp64\www\tradebox\system\Router\Router.php(583): include_once()
+#1 D:\wamp64\www\tradebox\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('graphapi/init')
+#2 D:\wamp64\www\tradebox\system\CodeIgniter.php(801): CodeIgniter\Router\Router->handle('graphapi/init')
+#3 D:\wamp64\www\tradebox\system\CodeIgniter.php(372): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\tradebox\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\tradebox\index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
